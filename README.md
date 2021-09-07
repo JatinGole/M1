@@ -6,7 +6,6 @@
 import random
 from locale import k
 
-
 def roll(k):
 
         a = random.randint(1, 6)
